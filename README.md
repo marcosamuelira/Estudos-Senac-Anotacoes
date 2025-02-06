@@ -1,2 +1,4 @@
 # Estudos-Senca-Anotacoes
-Este repositório está vinculado ao meus estudos no Senac Tatuape, a qual possui anotações de aulas que facilitão meu entendimento. Mas também algumas notas pessoais de conteudos a qual quero me aprofundar seja autoditado ou em cursos extras curriculares.  
+Este repositório está vinculado ao meus estudos no Senac Tatuape, a qual possui anotações de aulas que facilitão meu entendimento. Mas também algumas notas pessoais de conteudos a qual quero me aprofundar seja autoditado ou em cursos extras curriculares.  |
+
+Sendo se uso Livre para auxilio de terceiros. 
