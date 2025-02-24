@@ -10,3 +10,6 @@ Divida o número DECIMAL que possui por 2, pegue o resultado seguinte e divida p
 
 ![Exemplo de imagem](https://github.com/marcosamuelira/Estudos-Senca-Anota-es/blob/main/Redes/Teoria%20de%20Redes%20e%20Sub%20Redes/exemplo-1-convers%C3%A3o-BIN.png?raw=true)
 
+### Método 2 
+
+![Exemplo de imagem](https://github.com/marcosamuelira/Estudos-Senca-Anota-es/blob/main/Redes/Teoria%20de%20Redes%20e%20Sub%20Redes/exemplo-2-convers%C3%A3o-BIN.jpg)
