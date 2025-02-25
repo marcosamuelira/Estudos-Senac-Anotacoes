@@ -19,6 +19,12 @@ Para calculos Hexadeciamis é um pouco mais chato, porém é tranquilo
 
 Divida o número DECIMAL que possui por 16, pegue o resultado seguinte e divida por 16, e assim sucessivamente até que chegue a um numero que seja menor que 16. Se você não enteder porque F. Pequise tabala Hexadecimal e vera que as letras valem numeros. 
 
-### Método 3 
+### Método 1
 
-![Exemplo de imagem](
+![Exemplo de imagem](https://raw.githubusercontent.com/marcosamuelira/Estudos-Senca-Anota-es/refs/heads/main/Redes/Teoria%20de%20Redes%20e%20Sub%20Redes/exemplo-1-convers%C3%A3o-Hexadecimal.png)
+
+### Método 2
+
+![Exemplo em PDF](https://github.com/marcosamuelira/Estudos-Senca-Anota-es/blob/main/Redes/Teoria%20de%20Redes%20e%20Sub%20Redes/Conversao-BASE.pdf)
+
+
