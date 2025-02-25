@@ -17,5 +17,8 @@ Divida o número DECIMAL que possui por 2, pegue o resultado seguinte e divida p
 Para calculos Hexadeciamis é um pouco mais chato, porém é tranquilo
 
 
-Divida o número DECIMAL que possui por 16, pegue o resultado seguinte e divida por 16, e assim sucessivamente até que chegue a um numero que seja menor que 16. Se vcoê não enter porque F. Pequise tabala Hexadecimal e vera que as letras valem numeros. 
+Divida o número DECIMAL que possui por 16, pegue o resultado seguinte e divida por 16, e assim sucessivamente até que chegue a um numero que seja menor que 16. Se você não enteder porque F. Pequise tabala Hexadecimal e vera que as letras valem numeros. 
 
+### Método 3 
+
+![Exemplo de imagem](
